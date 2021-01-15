@@ -253,7 +253,8 @@ void read_ADC0(void){
             else
                 high_count--;
         }
-        duty_cycle -= high_count*GAIN_FACTOR;
+        //duty_cycle -= high_count*GAIN_FACTOR;
+        duty_cycle += high_count*GAIN_FACTOR;       //testing if this helps control valve flipping sign?
 
         if(duty_cycle > MAX_DUTY_CYCLE)
             duty_cycle = MAX_DUTY_CYCLE;

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\SWC_10A.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>4096</length>
+      <used>1554</used>
+      <free>2542</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>256</length>
+      <used>87</used>
+      <free>169</free>
+    </memory>
+  </executable>
+</project>

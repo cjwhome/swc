@@ -25,7 +25,7 @@
 [v _eecpymem eecpymem `(v  1 e 1 0 ]
 "39
 [v _memcpyee memcpyee `(v  1 e 1 0 ]
-"39 Q:\cprojects\squareWaveControl\SWC_10A\SWC_10A.X\main.c
+"39 C:\cprojects\swc\SWC_10A.X\main.c
 [v _REC_int REC_int `II(v  1 e 1 0 ]
 "65
 [v _init_pic12f1840 init_pic12f1840 `(v  1 e 1 0 ]
@@ -35,7 +35,7 @@
 [v _main main `(v  1 e 1 0 ]
 "227
 [v _read_ADC0 read_ADC0 `(v  1 e 1 0 ]
-"3 Q:\cprojects\squareWaveControl\SWC_10A\SWC_10A.X\putc.c
+"3 C:\cprojects\swc\SWC_10A.X\putc.c
 [v _putch putch `(v  1 e 1 0 ]
 "463 C:\Program Files (x86)\Microchip\xc8\v1.37\include\pic12f1840.h
 [v _PIR1 PIR1 `VEuc  1 e 1 @17 ]
@@ -143,7 +143,7 @@
 [v _TXIF TXIF `VEb  1 e 0 @140 ]
 "354 C:\Program Files (x86)\Microchip\xc8\v1.37\sources\common\doprnt.c
 [v _dpowers dpowers `DCC[10]ul  1 s 40 dpowers ]
-"27 Q:\cprojects\squareWaveControl\SWC_10A\SWC_10A.X\main.c
+"27 C:\cprojects\swc\SWC_10A.X\main.c
 [v _rcv_str rcv_str `[14]uc  1 e 14 0 ]
 "28
 [v _rcv_char_index rcv_char_index `uc  1 e 1 0 ]
@@ -202,7 +202,7 @@
 [v printf@f f `*.25DCCuc  1 p 2 15 ]
 "1541
 } 0
-"3 Q:\cprojects\squareWaveControl\SWC_10A\SWC_10A.X\putc.c
+"3 C:\cprojects\swc\SWC_10A.X\putc.c
 [v _putch putch `(v  1 e 1 0 ]
 {
 [v putch@data data `uc  1 a 1 wreg ]
@@ -276,7 +276,7 @@
 [v ___ftpack@sign sign `uc  1 p 1 6 ]
 "86
 } 0
-"65 Q:\cprojects\squareWaveControl\SWC_10A\SWC_10A.X\main.c
+"65 C:\cprojects\swc\SWC_10A.X\main.c
 [v _init_pic12f1840 init_pic12f1840 `(v  1 e 1 0 ]
 {
 "67
@@ -288,7 +288,7 @@
 {
 "10
 } 0
-"39 Q:\cprojects\squareWaveControl\SWC_10A\SWC_10A.X\main.c
+"39 C:\cprojects\swc\SWC_10A.X\main.c
 [v _REC_int REC_int `II(v  1 e 1 0 ]
 {
 "54
